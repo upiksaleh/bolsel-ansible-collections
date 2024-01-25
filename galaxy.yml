@@ -3,8 +3,8 @@
 
 # See https://docs.ansible.com/ansible/latest/dev_guide/collections_galaxy_meta.html
 
-namespace: "upiksaleh"
-name: "bolsel"
+namespace: upiksaleh
+name: bolsel
 version: 1.0.0
 readme: README.md
 authors:
@@ -12,9 +12,8 @@ authors:
 
 description: Bolsel Automation Collection
 license_file: LICENSE
-tags: []
+tags: [application, cloud, infrastructure]
 dependencies: {}
-
 repository: https://github.com/upiksaleh/bolsel-ansible-collections
 documentation: https://github.com/upiksaleh/bolsel-ansible-collections
 homepage: https://github.com/upiksaleh/bolsel-ansible-collections
